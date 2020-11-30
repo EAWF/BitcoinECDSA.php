@@ -32,7 +32,7 @@ Alternatively add following snippet in you composer.json
 "bitcoin-php/bitcoin-ecdsa" : ">=1.3"
 ```
 
-**Instanciation**
+**Instantiation**
 
 ```php
 use BitcoinPHP\BitcoinECDSA\BitcoinECDSA;
